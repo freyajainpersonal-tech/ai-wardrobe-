@@ -3,3 +3,5 @@ opencv-python-headless
 numpy
 Pillow
 requests
+gradio_client
+huggingface_hub
